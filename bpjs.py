@@ -11,7 +11,7 @@ import datetime
 import requests
 
 class BpjsBriding(object):
-    BASE_URL = "http://api.asterix.co.id/SepWebRest"
+    BASE_URL = "http://x.x.c/webservices" # disesuaikan dengan URL yang diberikan oleh BPJS
 
     def __init__(self, customer_id, secret_key):
         self.customer_id = customer_id
