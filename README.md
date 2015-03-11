@@ -1,5 +1,9 @@
 # bpjs-briding
 
-contoh: library untuk briding sistem bpjs dengan simrs dengan menggunakan python
+Simple Python Library untuk briding sistem bpjs kesehatan dengan simrs di rumah sakit
 
-Service Catalog Bridgin: http://goo.gl/fXlqeH
+Service Catalog Bridging: http://goo.gl/fXlqeH
+
+# 2015-3-10
+Pembuatan SEP masih belum bisa
+Lookup kepersertaan dan list pasien berdasarkan tanggal sudah bisa
