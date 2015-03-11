@@ -1,4 +1,6 @@
-# bpjs-briding
+# BPJS-SIMRS Bridging System
+
+BPJS kesehatan menyediakan webservices untuk pencarian data peserta dan pembuatan SEP (surat eligibilitas peserta) BPJS. Toolkit ini merupakan client toolkit untuk mengakses api webservice
 
 Simple Python Library untuk briding sistem bpjs kesehatan dengan simrs di rumah sakit
 
