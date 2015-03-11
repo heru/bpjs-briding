@@ -6,8 +6,8 @@ import bpjs
 
 
 if "__main__" == __name__:
-    CUSTOMER_ID = "1000"
-    SECRET_KEY = "1112"
+    CUSTOMER_ID = "1234" # di isi sesuai dengan data yang diberikan oleh BPJS
+    SECRET_KEY = "1234" # di isi sesuai dengan data yang diberikan oleh BPJS
 
     router = bpjs.BpjsBriding(CUSTOMER_ID, SECRET_KEY)
     # data = router.search_peserta_based_kartu("0000419274088")
