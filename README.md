@@ -12,5 +12,10 @@ Toolkit ini tidak dibuat oleh BPJS kesehatan. Sampai saat ini BPJS kesehatan tid
 Toolkit dapat digunakan oleh pengelola IT di RS sebagai referensi dan tool untuk melakukan bridgin system BPJS kesehatan.
 
 # 2015-3-10
-Pembuatan SEP masih belum bisa
-Lookup kepersertaan dan list pasien berdasarkan tanggal sudah bisa
+TODO
+----
+* Pembuatan SEP masih belum bisa
+
+FIXED
+---
+* Lookup kepersertaan dan list pasien berdasarkan tanggal sudah bisa
